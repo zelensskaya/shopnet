@@ -7,6 +7,3 @@
     productType: string;
     productBrand: string;
   }
-  
- 
-  
